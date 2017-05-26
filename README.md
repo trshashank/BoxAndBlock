@@ -7,5 +7,5 @@ https://www.mathworks.com/help/vision/examples/detecting-cars-using-gaussian-mix
 https://github.com/FORTH-ModelBasedTracker/HandTracker
 
 
-#Background Subtraction using opencv commands
+# Background Subtraction using opencv commands
 http://docs.opencv.org/3.1.0/db/d5c/tutorial_py_bg_subtraction.html
